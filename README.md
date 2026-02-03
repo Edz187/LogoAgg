@@ -20,8 +20,7 @@ Foco em layout, organização visual e conceitos básicos de front-end ✨
 
 ## 🛠️ Tecnologias utilizadas
 - HTML  
-- CSS  
-- JavaScript  
+- CSS 
 
 ---
 
